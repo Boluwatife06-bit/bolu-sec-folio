@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="100%" height="100%" rx="16" fill="#08121a"/>
+  <circle cx="150" cy="100" r="44" fill="#0d1620" stroke="#00ffd1" stroke-opacity="0.14" stroke-width="2"/>
+  <rect x="70" y="160" width="160" height="90" rx="8" fill="#0d1620" stroke="#7c5cff" stroke-opacity="0.08"/>
+  <text x="150" y="272" fill="#7c5cff" font-family="Source Code Pro, monospace" font-size="12" text-anchor="middle">Professional Avatar</text>
+</svg>
